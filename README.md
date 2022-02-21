@@ -5,16 +5,20 @@ Pewlett-Hackard is needing to prepare for the impending changes to its large wor
 
 ## Results
 ### Deliverable 1
--A combined 90,398 positions are likely to retire, of which 54.51% are in senior level positions.
+-A combined 90,398 employees are likely to retire.
+
+-The expected number of retirements is 30.13% of the current total workforce. 
+
+-54.51% of expected retirements are from senior level positions.
 
 -45,397 junior and senior engineers are expected to retire, 50.22% of total retirements. 
 
 ![alt text](https://github.com/bwengerDU/Pewlett-Hackard-Analysis/blob/main/Deliverable%201%20Reults.png)
 
 ### Deliverable 2
--
+-1,549 employees are qualified for the mentorship program. 
 
--
+-Qualified employees represent 1.71% of the expected retirement vacancies.
 
 ![alt text](https://github.com/bwengerDU/Pewlett-Hackard-Analysis/blob/main/Deliverable%202%20Reults.png)
 
