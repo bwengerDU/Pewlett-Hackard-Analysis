@@ -7,6 +7,7 @@ Pewlett-Hackard is needing to prepare for the impending changes to its large wor
 ### Deliverable 1
 -A combined 90,398 positions are likely to retire, of which 54.51% are in senior level positions.
 -45,397 junior and senior engineers are expected to retire, 50.22% of total retirements. 
+
 ![alt text](https://github.com/bwengerDU/Pewlett-Hackard-Analysis/blob/main/Deliverable%201%20Reults.png)
 
 ### Deliverable 2
